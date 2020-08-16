@@ -321,6 +321,7 @@ Update Language Pack=Aktualizovat jazykový balíček
 Installed Version=Instalovaná verze
 A note about translations=Poznámky k překladu
 Click here to view the language changelog=Klepnutím zobrazíte seznam změn jazyka
+View Missing Translations=Zobrazit chybějící překlady
 
 ; Help Text
 This chooses how to sort the results=Tímto zvolíte způsob řazení výsledků
