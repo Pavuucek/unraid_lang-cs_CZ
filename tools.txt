@@ -1,302 +1,300 @@
-A registration replacement key has been created for USB Flash GUID=
-About=
-alert=
-An email has been sent to=
-and=
-Anonymize diagnostics=
-Anytime=
-Archived Notifications=
-Are you sure=
-Array has been Reset=Array has been **Reset**
-Array must be Started to change permissions=Array must be **Started** to change permissions
-Array must be Stopped to change=Array must be **Stopped** to change
-Array=
-Author=
-Blacklisted USB Flash GUID=
-Branch=
-By using this software, you agree with our=
-Cache slots=
-Cannot connect to key-server=
-Check for Updates=
-click Install Key=click <i>Install Key</i>
-collecting diagnostic information this may take several minutes=collecting diagnostic information (this may take several minutes)
-Component=
-Credits=
-Data slots=
-Delete notification=
-Developer=
-Diagnostics=
-Disks=
-Display Settings=
-End-User License Agreement=
-Enter URL of language pack XML file=
-Error accessing your physical USB Flash boot device=
-EULA=
-Event=
-Expiration=
-Extend=
-extended=
-Get Trial Key=
-Hardware Profile=
-Hide Details=
-If you do not receive an email, please check your spam or junk-email folder=
-Importance=
-Important=
-Install=
-Installed languages=
-Invalid Trial Installation=Invalid *Trial* Installation
-It will collect all of the system hardware information, remove any serial numbers, and securely upload it to LimeTech=
-Key file URL=
-Language support added=
-Language support deleted=
-Language=
-Missing Key File=
-Missing Language=
-Network Settings=
-New Config=
-New Permissions=
-No notifications present=
-No personal information such as user names, passwords, or any other file contents is included in the hardware profile=No personal information such as user names, passwords, or any other file contents is included in the hardware profile
-normal=
-Only ZIP files are allowed=
-Page Map=
-Parity slots=
-Please check your=
-Please select a language before proceeding=
-Please=
-Preserve current assignments=
-previous=
-Privacy Policy=
-Processes=
-Purchase Key=
-Registered GUID=
-Registered on=
-Registered to=
-registering USB Flash GUID=
-Release has been withdrawn=
-Remove the installed language=
-Replaceable=
-Request Extension=
-Request Trial Extension=
-Restore=
-See=
-Select language file=
-Select language=
-Show Details=
-slots=
-Subject=
-System Devices=
-System Update Check=
-Text=
-Thank you for choosing Unraid OS=
-Thank you for registering USB Flash GUID=
-Thank you for trying Unraid OS=
-The registered GUID does not match the USB Flash boot device GUID=
-There is a physical problem accessing your USB Flash boot device=
-this may take several minutes=
-This release has been withdrawn for use with Trial keys=This release has been withdrawn for use with *Trial* keys
-This server has %s attached storage device=
-This server has %s attached storage devices=
-This utility is used for troubleshooting purposes=
-This will delete all notification files=
-This will update folder file permissions=This will update folder & file permissions
-Time=
-To install a registration key, paste the key file URL in the box below and click Install Key=To install a registration key, paste the key file URL in the box below and click **Install Key**
-to select your language=
-To support more storage devices as your server grows, click Upgrade Key below=To support more storage devices as your server grows, click *Upgrade Key* below
-Trial key expires on=***Trial*** key expires on
-Trial=
-Update OS=
-Upgrade Key=
-uploading hardware information=
-Uploading=
-Use this to develop language packs=
-Use this to install official language packs=
-User Shares=
-User=
-Vars=
-warning=
-webGUI=
-When received, please paste the URL into the Key file URL box and=When received, please paste the URL into the <i>Key file</i> URL box and
-Wrong File Extension=
-You havent sent Limetech your hardware profile yet=You haven't sent Limetech your hardware profile yet
-Your hardware profile was last submitted on=
-Your Trial key has expired=Your *Trial* key has expired
-Your Trial key requires an internet connection=Your *Trial* key requires an internet connection
+A registration replacement key has been created for USB Flash GUID=Náhradní registrační klíč byl vytvořen pro USB Flash GUID
+About=O aplikaci
+alert=upozornění
+An email has been sent to=Byl odeslán mail na
+and=a
+Anonymize diagnostics=Anonymizovat diagnostiku
+Anytime=Kdykoliv
+Archived Notifications=Archivovaná upozornění
+Are you sure=Jste si jistí
+Array has been Reset=Pole bylo **resetováno**
+Array must be Started to change permissions=Pro změnu přístupových práv musí být pole **spuštěné**
+Array must be Stopped to change=Pro změnu musí být pole **zastavené**
+Array=Pole
+Author=Autor
+Blacklisted USB Flash GUID=USB Flash GUID na černé listině
+Branch=Větev
+By using this software, you agree with our=Použitím tohoto software souhlasíte s našimi
+Cache slots=Sloty cache
+Cannot connect to key-server=Nemohu se připojit k serveru klíčů
+Check for Updates=Zkontrolovat aktualizace
+click Install Key=klepněte na <i>Instalovat klíč</i>
+collecting diagnostic information this may take several minutes=shromažďuji diagnostické informace (toto může chvíli trvat)
+Component=Komponenta
+Credits=Autoři
+Data slots=Datové sloty
+Delete notification=Smazat upozorění
+Developer=Vývojář
+Diagnostics=Diagnostika
+Disks=Disky
+Display Settings=Nastavení zobrazení
+End-User License Agreement=Licenčními podmínkami pro koncové uživatele
+Enter URL of language pack XML file=Zadejte URL XML souboru jazykového balíčku
+Error accessing your physical USB Flash boot device=Chyba přístupu k vašemu fyzickému spouštěcímu zařízení USB Flash
+EULA=EULA
+Event=Událost
+Expiration=Vyprší
+Extend=Prodloužit
+extended=prodloužené
+Get Trial Key=Získat zkušební klíč
+Hardware Profile=Hardwarový profil
+Hide Details=Skrýt detaily
+If you do not receive an email, please check your spam or junk-email folder=Pokud jste nedostali mail, prosím podívejte se do složky se spamem
+Importance=Důležitost
+Important=Důležité
+Install=Instalovat
+Installed languages=Instalované jazyky
+Invalid Trial Installation=Neplatná *zkušební* instalace
+It will collect all of the system hardware information, remove any serial numbers, and securely upload it to LimeTech=Shromáždí všechny informace o systémovém hardwaru, odstraní všechna sériová čísla a bezpečně je nahraje na server LimeTechu
+Key file URL=URL souboru klíče
+Language support added=Jazyková podpora přidána
+Language support deleted=Jazyková podpora smazána
+Language=Jazyk
+Missing Key File=Chybí soubor s klíčem
+Missing Language=Chybí jazyk
+Network Settings=Nastavení sítě
+New Config=Nové nastavení
+New Permissions=Nová přístupová práva
+No notifications present=Nejsou k dispozici žádná upozornění
+No personal information such as user names, passwords, or any other file contents is included in the hardware profile=Součástí hardwarového profilu nejsou žádné osobní informace, jako např. jména, hesla nebo obsah jakéhokoliv souboru
+normal=normální
+Only ZIP files are allowed=Jsou povoleny pouze soubory ZIP
+Page Map=Mapa stránek
+Parity slots=Sloty parity
+Please check your=Prosím zkontrolujte
+Please select a language before proceeding=Prosím zkontrolujte jazyk před pokračováním
+Please=Prosím
+Preserve current assignments=Zachovat současné přiřazení
+previous=předchozí
+Privacy Policy=Zásady soukromí
+Processes=Procesy
+Purchase Key=Zakoupit klíč
+Registered GUID=Registrované GUID
+Registered on=Zaregistrováno dne
+Registered to=Zaregistrováno na jméno
+registering USB Flash GUID=registruji USB Flash GUID
+Release has been withdrawn=Vydání bylo staženo
+Remove the installed language=Odstranit nainstalovaný jazyk
+Replaceable=Nahraditelný
+Request Extension=Vyžádat prodloužení
+Request Trial Extension=Vyžádat prodloužení zkušební doby
+Restore=Obnovit
+See=Viz
+Select language file=Vyberte soubor jazyka
+Select language=Vyberte jazyk
+Show Details=Zobrazit detaily
+slots=sloty
+Subject=Předmět
+System Devices=Systémová zařízení
+System Update Check=Kontrola aktualizace systému
+Text=Text
+Thank you for choosing Unraid OS=Děkujeme, že jste si vybrali Unraid OS
+Thank you for registering USB Flash GUID=Děkujeme za registraci USB Flash GUID
+Thank you for trying Unraid OS=Děkujeme za vyzkoušení Unraid OS
+The registered GUID does not match the USB Flash boot device GUID=Registrované GUID nesouhlasí s GUID spouštěcího zařízení USB Flash
+There is a physical problem accessing your USB Flash boot device=Při přístupu ke spouštěcímu zařízení USB Flash se vyskytl fyzický problém
+this may take several minutes=toto bude chvíli trvat
+This release has been withdrawn for use with Trial keys=Toto vydání bylo zakázáno pro použití se *zkušebními* klíči
+This server has %s attached storage device=Tento server má připojené %s úložné zařízení
+This server has %s attached storage devices=Tento server má připojených %s úložných zařízení
+This utility is used for troubleshooting purposes=Tento nástroj se používá pro účely řešení potíží
+This will delete all notification files=Tímto smažete všechny soubory s oznámeními
+This will update folder file permissions=Tímto aktualizujete přístupová práva k souborům a složkám
+Time=Čas
+To install a registration key, paste the key file URL in the box below and click Install Key=Pro instalaci registračního klíče vložte adresu souboru s klíčem do rámečku dole a Klepněte na **Instalovat klíč** 
+to select your language=pro výběr vašeho jazyka
+To support more storage devices as your server grows, click Upgrade Key below=Pro podporu více úložných zařízení klepněte dole na *Povýšit klíč*
+Trial key expires on=***Zkušební*** klíč vyprší dne
+Trial=Zkušební
+Update OS=Aktualizovat OS
+Upgrade Key=Povýšit klíč
+uploading hardware information=nahrávám informace o hardwaru
+Uploading=Nahrávám
+Use this to develop language packs=Pro vývoj jazykových balíčků použijte toto
+Use this to install official language packs=Pro instalaci oficiálních jazykových balíčků použijte toto
+User Shares=Uživatelská sdílení
+User=Uživatel
+Vars=Proměnné
+warning=varování
+webGUI=Webové rozhraní
+When received, please paste the URL into the Key file URL box and=Až ho dostanete, vložte adresu do rámečku <i>Soubor s klíčem</i> a
+Wrong File Extension=Chybná přípona souboru
+You havent sent Limetech your hardware profile yet=Ještě jste neodeslali váš hardwarový profil do Limetechu
+Your hardware profile was last submitted on=Váš hardwarový profil byl naposledy odeslán
+Your Trial key has expired=Váš *zkušební* klíč vypršel
+Your Trial key requires an internet connection=Váš *zkušební* klíč vyžaduje připojení k internetu
 
 ; Sysdevs text - added May 18, 2020
-A reboot is required to apply changes=
-ALERT=
-Bind selected to VFIO at Boot=
-CPU Thread Pairings=
-Changes saved=
-Function Level Reset FLR supported=Function Level Reset (FLR) supported
-In use by Unraid=
-Kernel driver in use vfio-pci=Kernel driver in use: vfio-pci
-No changes=
-PCI Devices and IOMMU Groups=
-Reboot to take effect=
-SCSI Devices=
-The below list doesnt not reflect the way IOMMU would naturally group devices=The below list doesn't not reflect the way IOMMU would naturally group devices
-This controller is bound to vfio, connected USB devices are not visible=
-This controller is bound to vfio, connected drives are not visible=
-To see natural IOMMU groups for your hardware, go to the VM Manager page and set the PCIe ACS override setting to Disabled=To see natural IOMMU groups for your hardware, go to the [VM Manager] page and set the **PCIe ACS override** setting to **Disabled**
-USB Devices=
-Your system has booted with the PCIe ACS Override setting enabled=
+A reboot is required to apply changes=Pro použití změn je vyžadován restart
+ALERT=UPOZORNĚNÍ
+Bind selected to VFIO at Boot=Přiřadit vybrané do VFIO při spuštění sytému
+CPU Thread Pairings=Párování vláken procesoru
+Changes saved=Změny uloženy
+Function Level Reset FLR supported=Podporován reset funkční úrovně (FLR)
+In use by Unraid=Použit v Unraidu
+Kernel driver in use vfio-pci=Používaný ovladač jádra: vfio-pci
+No changes=Žádné změny
+PCI Devices and IOMMU Groups=Zařízení PCI a skupiny IOMMU
+Reboot to take effect=Restartujte pro provedení změn
+SCSI Devices=Zařízení SCSI
+The below list doesnt not reflect the way IOMMU would naturally group devices=Seznam dole neodráží způsob jakým by IOMMU přirozeně seskupovalo zařízení
+This controller is bound to vfio, connected USB devices are not visible=Tento řadič je přiřazený do vfio, připojená USB zařízení nejsou viditelná
+This controller is bound to vfio, connected drives are not visible=Tento řadič je přiřazený do vfio, připojené disky nejsou viditelné
+To see natural IOMMU groups for your hardware, go to the VM Manager page and set the PCIe ACS override setting to Disabled=Přejděte na stránku [Správce virtuálních strojů] pro zobrazení přirozených skupin IOMMU a nastavení **obejití PCIe ACS** na **vypnuté**
+USB Devices=USB zařízení
+Your system has booted with the PCIe ACS Override setting enabled=Váš systém byl spuštěn se zapnutým nastavením obejití PCIe ACS
 
 :diagnostics_1_plug:
-This utility is used for troubleshooting purposes. It will collect all of the system information and configuration files, and package these files in a single ZIP file which can be saved locally.
-Subsequently, this file can be included in your correspondence with Limetech or the Unraid forum.
+Tento nástroj se používá pro řešení potíží. Shromáždí systémové informace, soubory nastavení a zabalí je jako jeden ZIP soubor, který můžete uložit lokálně.
+Potom můžete tento soubor přiložit ke korespondenci s Limetechem, nebo ve fóru Unraid.
 
-This will help others to quickly get the inside information of your system and provide better support to your problem. The following information
-and configuration files are collected:
+To pomůže ostatním rychle získat informace o vašem systému a lépe vám tak pomoct s vaším problémem.
+Jsou shromažďovány následující informace a soubory nastavení:
 :end
 
 :diagnostics_2_plug:
 + */config*
-  <br>copy all *\*.cfg files*, *go* file and the *super.dat* file. These are configuration files.
+  <br>zkopírují se všechny soubory *\*.cfg*, soubory *go* a *super.dat*. Toto jsou soubory nastavení.
 + */config/shares*
-  <br>copy all *\*.cfg* files. These are user share settings files.
-+ *Syslog file(s)*
-  <br>copy the current *syslog* file and any previous existing *syslog* files.
-+ *System*
-  <br>save output of the following commands:
+  <br>Zkopírují se soubory *\*.cfg*. Toto jsou soubory nastavení uživatelských sdílení.
++ *Soubor(y) Syslogu*
+  <br>zkopíruje se současný soubor *syslog* a všechny předchzí soubory *syslog*.
++ *Systém*
+  <br>uloží se výstup z následujících příkazů:
   <br>lsscsi, lspci, lsusb, free, lsof, ps, ethtool & ifconfig.
-  <br>display of iommu groups.
-  <br>display of command line parameters (e.g. pcie acs override, pci stubbing, etc).
-  <br>save system variables.
-+ *SMART reports*
-  <br>save a SMART report of each individual disk present in your system.
+  <br>zobrazení skupin iommu.
+  <br>zobrazení parametrů příkazové řádky (např. obejití pcie acs, pci stubbing, atd.)
+  <br>uloží se systémové proměnné.
++ *Hlášení SMART*
+  <br>uloží se hlášení SMART o každém disku přítomném ve vašem systému.
 + *Docker*
-  <br>save files *docker.log*, *libvirtd.log*, *libvirt/qemu/\*.log* and *vfio-pci*.
+  <br>uloží se soubory *docker.log*, *libvirtd.log*, *libvirt/qemu/\*.log* a *vfio-pci*.
 :end
 
 :diagnostics_3_plug:
-Clicking **Download** will start the collection process and then instruct your browser to save the zip file locally.
+Klepnutím na **Stáhnout** spustíte proces sběru. Po jeho skončení uložte ZIP soubor na místní disk.
 
-*No personal information such as user names, passwords, or any other file contents not specified above is included
-by Unraid OS; however, your server name, IP address, and user share names* **will** *be included.*
+*Nejsou shromažďovány žádné osobní údaje, jako např. uživatelská jména, hesla, nebo obsah souborů, které nejsou
+uvedeny výše. Naopak,* **JE** *zahrnuto následující: Název vašeho serveru, IP adresa a názvy uživatelských sdílení.*
 
-*Note that 3rd-party plugins **may** or may not store personal information in plugin-specific configuration files and/or output
-to the system log.*
+*Doplňky třetích stran **mohou**, ale nemusejí ukládat osobní údaje ve svých souborech nastavení, nebo jako
+výstup do systémových záznamů.*
 
-*Use* **Anonymize diagnostics** *when publishing the diagnostics file in the public forum. In private communication with Limetech it is recommended to uncheck this setting and capture all information unaltered.*
+*Před zveřejněním diagnostického souboru ve veřejném fóru použijte* **Anonymizovat diagnostiku**. *V soukromé konverzaci s Limetechem se doporučuje ponechat
+toto nastavení nezaškrtlé a ponechat všechny informace beze změn.*
 :end
 
 :newconfig_plug:
-This is a utility to reset the array disk configuration so that all disks appear as "New" disks, as
-if it were a fresh new server.
+Toto je nástroj pro uvedení pole disků do výchozího nastavení. Všechny disky budou vypadat jako
+"nové", tak jako kdyby toto byl čistý server.
 
-This is useful when you have added or removed multiple drives and wish to rebuild parity based on
-the new configuration.
+Používá se to při přidání, nebo odstranění více disků, když chcete znovu sestavit paritu
+na základě tohoto nového nastavení.
 
-Use the *'Preserve current assignments'* selection to populate the desired disk slots ***after*** the array has been reset. By default **no** disk slots are populated.
+**Po** resetu pole, použijte výběr *'Zachovat současná přiřazení'* pro přiřazení disků do jejich žádaných slotů. Ve výchozím stavu nejsou přiřazeny **žádné** diskové sloty.
 
-**DO NOT USE THIS UTILITY THINKING IT WILL REBUILD A FAILED DRIVE** - it will have the opposite
-effect of making it ***impossible*** to rebuild an existing failed drive - you have been warned!
+**TÍMTO NÁSTROJEM NELZE OBNOVIT SELHÁVAJÍCÍ DISK** - má zcela opačný efekt a ***nebude možné***
+obnovit stávající selhávající disk! My jsme vás varovali!
 :end
 
 :newperms_1_plug:
-This is a mandatory one-time action to be taken after upgrading from a pre-5.0 Unraid server release to Unraid v5 or a later release.
-Select **ALL DISKS** when performing this one-time action.
+Toto je povinná jednorázová akce, kterou musíte provést po aktualizaci Unraid serveru z verze nižší než 5.0.
+Při provádění této jednorázové akce vyberte **VŠECHNY DISKY**.
 
-This utility is also useful for restoring default ownership/permissions on files and
-directories when transitioning back from Active Directory to non-Active Directory integration.
+Tento nástroj je také užitečný pro obnovu výchozího vlastnictví nebo přístupových práv souborů
+a složek při přechodu integrace z Active Directory na pracovní skupinu.
 
-The utility starts a background process that goes to each of your data disks and cache disks and selected user shares
-and changes file and directory ownership to *nobody/users* (i.e., uid/gid to 99/100), and sets permissions
-as follows:
+Nástroj spustí proces na pozadí, který projde každý váš datový, cachovací disk a vybraná uživatelská sdílení,
+změní vlastnictví souborů a složek na *nobody/users* (tj. uid/gid na 99/100) a změní přístupová práva na následující:
 :end
 
 :newperms_2_plug:
-For directories:
+Pro složky:
   drwxrwxrwx
 
-For read/write files:
+Pro soubory pro čtení / zápis:
   -rw-rw-rw-
 
-For readonly files:
+Pro soubory pouze ke čtení:
   -r--r--r--
 :end
 
 :newperms_3_plug:
-Clicking **Start** will open another window and start the background process.
+Klepnutím na **Spustit** se otevře nové okno a zahájí se proces na pozadí.
 
-Closing the window before completion will terminate the background process - so don't do that. This process can take a long time if you have many files.
+Zavřením okna před dokončením ukončíte proces na pozadí, takže to radši nedělejte. Tento proces může trvat hodně dlouho, pokud máte spoustu souborů.
 
-Note that this tool may negatively affect any docker containers if you allow your appdata share to be included.
+Pokud zahnete sdílení appdata, tak tento proces může mít negativní efekt kontejnery dockeru.
 :end
 
 :registration_1_plug:
-Your server will not be usable until you purchase a Registration key or install a free 30-day *Trial* key. A *Trial*
-key provides all the functionality of a *Pro* Registration key.
+Váš server nepůjde použít dokud si nezakoupíte registrační klíč, nebo nenainstalujete *zkušební* klíč na 30 dní zdarma.
+*Zkušební* klíč poskytuje stejnou funkčnost jako registrační klíč *Pro*.
 
-Registration keys are bound to your USB Flash boot device serial number (GUID).  Please use a high quality name brand device
-at least 1GB in size.
+Registrační klíče jsou vázány na sériové číslo (GUID) vašeho spouštěcího USB Flash zařízení. Použijte prosím kvalitní značkové
+zařízení o velikosti alespoň 1GB.
 
-Note: USB memory card readers are generally **not** supported because most do not present unique serial numbers.
+Poznámka: Čtečky paměťových karet obecně **nejsou** podporovány, protože neposkytují unikátní sériová čísla.
 :end
 
 :registration_2_plug:
-+ Please make sure your [server time](DateTime) is accurate to within 5 minutes.
-+ Please make sure there is a [DNS server](NetworkSettings) specified.
++ Prosím zkontrolujte, že [čas serveru](DateTime) je přesný v rozmezí pěti minutes.
++ Prosím zkontrolujte, že je nastaven [server DNS](NetworkSettings).
 :end
 
 :registration_3_plug:
-Your *Trial* key includes all the functionality and device support of a *Pro* Registration key.
+Váš *zkušební* klíč zahrnuje všechnu funkčnost a podporu zařízení jako registrační klíč *Pro*.
 
-After your *Trial* key has reached expiration, your server **still functions normally** until the next time you **Stop** the array.
+Po vypršení *zkušebního* klíče váš server bude **stále fungovat normálně** do té doby než **zastavíte* pole.
 
-At that point, you may either purchase a Registration key, or request a *Trial* extension.
+Potom můžete buď zakoupit registrační klíč, nebo zažádat o prodloužení *zkušebního*.
 :end
 
 :registration_4_plug:
-To continue using Unraid OS you may purchase a Registration key. Alternately, you may request a *Trial* extension key.
+Pro další použití Unraid OS si můžete zakoupit registrační klíč, nebo zažádat o prodloužení platnosti *zkušebního* klíče.cfg
 
-Most *Trial* extension requests are processed immediately but please allow up to one business day to receive your *Trial* extension key.
+Většina žádostí o prodloužení *zkušebního* klíče je vyřizována okamžitě, ale než dostanete prodloužený *zkušební* klíč může trvat až jeden pracovní den.
 :end
 
 :registration_5_plug:
-It is not possible to use a *Trial* key with an existing Unraid OS installation.
+Se stávající instalací Unraid OS není možné použít *zkušební* klíč.
 
-You may purchase a Registration key corresponding to this USB Flash device to continue using this installation.
+Pro další použití této instalace si můžete zakoupit registrační klíč určený pro toto zařízení USB Flash.
 
-For more information, please [Contact Support](https://lime-technology.com/contact).
+Pro více infomací prosím [kontaktujte podporu](https://lime-technology.com/contact).
 :end
 
 :registration_6_plug:
-It appears that your Registration key file is corrupted or missing.  The key file should be located in the
-[config](/Registration/Browse?dir&#61;/boot/config) directory on your USB Flash boot device.
+Zdá se, že váš soubor registračního klíče je porušený, nebo chybí. Soubor klíče by měl být umístěný ve
+složce [config](/Registration/Browse?dir&#61;/boot/config) na vašem zařízení USB Flash.
 
-If you do not have a backup copy of your Registration key file, [Contact Support](https://lime-technology.com/contact).
-
-If this was a *Trial* installation, you may purchase a Registration key.
+Pokud se jedná o *zkušební* instalaci, můžete si zakoupit registrační klíč.
 :end
 
 :registration_7_plug:
-*Trial* installations are only valid with the originally registered USB Flash device.
+*Zkušební* instalace jsou platné pouze s původně zaregistrovaným zařízením USB Flash.
 
-To continue using this installation with this USB Flash device, you may purchase a Registration key.
+Pro další použití této instalace s tímto zařízením USB Flash si můžete zakoupit registrační klíč.
 :end
 
 :registration_8_plug:
-The Registration key file does not correspond to the USB Flash boot device.
-Please copy the correct key file to the [config](/Registration/Browse?dir&#61;/boot/config) directory
-on your USB Flash boot device. If you do not have a backup copy of your key file, [Contact Support](https://lime-technology.com/contact).
+Registrační klíč neodpovídá spouštěcímu zařízení USB Flash.
+Prosím zkopírujte správný soubor klíče do složky [config](/Registration/Browse?dir&#61;/boot/config) na vašem zařízení USB Flash.
+Pokud nemáte záložní kopii souboru klíče [kontaktujte podporu](https://lime-technology.com/contact).
 
-If you want to replace your Registration key with a new key bound to this USB Flash device, click Replace Key below. An original key may be
-replaced anytime. Thereafter, a replacement key may be replaced again after one year has passed.  If you require
-another replacement key sooner, [Contact Support](https://lime-technology.com/contact).
+Pokud chcete nahradit registrační klíč novým klíčem vázaným na toto zařízení USB Flash, klepněte dole na **Nahradit klíč**.
+Původní klíč může být nahrazen kdykoliv. Další náhradní klíč může být vyžádán až po uplynutí jednoho roku.
+Pokud budete potřebovat náhradní klíč dříve, [kontaktujte podporu](https://lime-technology.com/contact).
 
-**Note:** Replacing a Registration key results in permanently *blacklisting* the previous USB Flash GUID.
+**Poznámka:** Nahrazením registračního klíče trvale umístíte předchozí GUID zařízení USB Flash na *černou listinu*.
 :end
 
 :registration_9_plug:
-This USB Flash boot device has been *blacklisted*. This can occur as a result of transfering your Registration key to
-a replacement USB Flash device, and you are currently booted from your old USB Flash device.
+Toto spouštěcí zařízení USB Flash se nachází na *černé listině*. Toto se může stát při přenosu registračního klíče na
+náhradní zařízení USB Flash, pokud je systém spuštěný ze starého zařízení.
 
-A USB Flash device may also be *blacklisted* if there is no serial number, or if we discover the serial number
-is not unique (this is common with USB card readers).
+Zařízení USB Flash také může být na *černé listině* z důvodu, že nemá sériové číslo, nebo ho nemá unikátní
+(toto je běžné u čteček paměťových karet).
 
-For more information, please [Contact Support](https://lime-technology.com/contact).
+Pro více informací prosím [kontaktujte podporu](https://lime-technology.com/contact).
 :end
