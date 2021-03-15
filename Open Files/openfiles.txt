@@ -1,22 +1,22 @@
-Program=
-Kill Process=
-Process ID=
-Open Files=
-Files that may prevent shutdown=
-File Name and Path=
-An entry for bash means you have a terminal session open with the working directory on the array=
-If smbd is listed, it means that another computer has a samba share mounted=
-Files open by Samba usually wont prevent array shutdown=
-No open files=
-Kill=
-Command timed out=
-Cannot get list of open files=
+Program=Program
+Kill Process=Sestřelit proces
+Process ID=ID procesu
+Open Files=Otevřené soubory
+Files that may prevent shutdown=Soubory které mohou bránit vypnutí
+File Name and Path=Název a cesta k souboru
+An entry for bash means you have a terminal session open with the working directory on the array=Záznam bash znamená, že běží sezení terminálu s otevřenou pracovní složkou na poli
+If smbd is listed, it means that another computer has a samba share mounted=Pokud je uvedené smbd, znamená to, že jiný počítač má připojené samba sdílení
+Files open by Samba usually wont prevent array shutdown=Soubory otevřené přes Sambu obvykle nebrání vypnutí pole.
+No open files=Žádné otevřené soubory
+Kill=Sestřelit
+Command timed out=Příkaz vypršel
+Cannot get list of open files=Nemohu získat seznam otevřených souborů
 ;
 ; Help
 ;
 :open_files_help_plug:
-> Click on the 'Kill' button to stop the process that is holding the files open.
->  A dialog box will open showing you the progress of killing the process holding those files open.
+> Klepnutím na tlačítko 'Sestřelit' zastavíte proces co drží soubor otevřený.
+> Otevře se dialogové okno, které vám ukáže postup sestřelení procesu co drží soubory otevřené.
 >
->Click on 'Program', Process ID', or 'File Name and Path' to change the sort order.
+> Klepněte na 'Program', 'ID procesu', nebo 'Název a cesta k souboru' pro změnu pořadí.
 :end
