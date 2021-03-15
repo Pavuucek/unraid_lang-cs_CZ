@@ -1,22 +1,22 @@
-Hotplug USB=
-Running VMs=
-Attach=
-Attach the USB device to the selected VM=
-Detach=
-Refresh this page=
-Detach the USB device from the selected VM=
-Result=
-Result of attachdetach operation=
-Note=
-Some USB Devices require detaching and attaching multiple times to be properly detected by VMs=
-If you have disconnected the device while it was attached to a VM, you will have to detach it and then re-attach it=
-Detaching Please wait=
-Attaching Please wait=
-No VM Selected=
-No USB devices=
+Hotplug USB=Hotplug USB
+Running VMs=Spuštěné virtuální stroje
+Attach=Připojit
+Attach the USB device to the selected VM=Připojit USB zařízení k vybranému virtuálnímu stroji
+Detach=Odpojit
+Refresh this page=Obnovit stránku
+Detach the USB device from the selected VM=Odpojit USB zařízení od vybraného virtuálního stroje
+Result=Výsledek
+Result of attachdetach operation=Výsledek operace připojit/odpojit
+Note=Poznámka
+Some USB Devices require detaching and attaching multiple times to be properly detected by VMs=Některá zařízení je nutné připojit a odpojit vícekrát, než je virtuální stroj správně rozpozná.
+If you have disconnected the device while it was attached to a VM, you will have to detach it and then re-attach it=Pokud jste odpojili zařízení když bylo připojené k virtuálnímu stroji, tak ho budete muset od něj odpojit a znovu připojit.
+Detaching Please wait=Odpojuji, prosím počkejte
+Attaching Please wait=Připojuji, prosím počkejte
+No VM Selected=Není vybraný virtuální stroj
+No USB devices=Není vybrané USB zařízení
 ;
 ; Help
 ;
 :libvirt_hot_plug:
-> Select the VM for the USB device to be attached/detached and the USB device for the selected VM.
+> Zvolte virtuální stroj ke kterému chcete připojit nebo odpojit USB zařízení.
 :end
