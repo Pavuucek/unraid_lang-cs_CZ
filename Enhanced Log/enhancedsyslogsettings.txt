@@ -135,28 +135,27 @@ Other Highlight Color=Barva zvýraznění ostatních
 :end
 
 :enhanced_log_custom_plug:
-> Enter any custom events you want highlighted in the log.  Any custom events you enter will be processed after the built in events.
-> The events are entered as: "search string", "event"
-> Case is ignored in the search string and wild cards are allowed.
-> Examples:
-> "found.*chip" will match any string with 'found' and 'chip' with any text in between,
-> "(spinup|spindown)" will match any string with either 'spinup' or 'spindown'. 
-> The search string and event are quoted, and each line contains one match string and event combination.  Errors in the strings can cause php errors.
-> Events are: "error", "minor issues", "lime tech", "array", "system", "file system", "drive related", "network", "login", "emhttp", "other".
+> Události se zadávají jako "vyhledávací řetězec", "událost"
+> Velikost písmen je ve vyhledávacím řetězci ignorována a je možné použít masky.
+> Příklady:
+> "found.*chip" vyhledá řetězec co obsahuje 'found' a 'chip ' a jakýkoliv text mezi tím,
+> "(spinup|spindown)" vyhledá řetězec co buď obsahuje 'spinup', nebo 'spindown'.
+> Vyhledávaný řetězec a udílost jsou v úvozovkách a každý řádek obsahuje jednu kombinaci řetězce a události. Chyby v řetězci mohou vyvolat chyby php.
+> Události jsou: "error", "minor issues", "lime tech", "array", "system", "file system", "drive related", "network", "login", "emhttp", "other".
 :end
 
 :enhanced_log_custom_buttons_plug:
-> Click the **Apply** button to save your custom events.  Click **Reset** to
-> undo any changes you make before you have saved the custom events. Click **Done** to exit this page.
+> Klepněte na **Použít** pro uložení vlastních událostí. Klepněte na **Reset** pro
+> vymazání všech změn provedených před uložením vlastních událostí. Klepněte na **Hotovo** pro opuštění této stránky.
 :end
 
 :enhanced_log_filter_plug:
-> You can filter out log entries to keep your Syslog from being overwhelmed with debig or redundant log entries.  You should only filter out log entries that you know are unnecessary or redundant.
-> Because the Syslog is very important for debugging issues, don't filter out entries unnecessarily.
-> Enter the log strings you want to filtered from the Syslog.  Each entry is on a separate line with leading and trailing quotes.
+> Můžete filtrovat systémové záznamy, abyste nebyli moc zavalení ladícími informacemi, nebo přebytečnými záznamy. Měli byste filtrovat pouze záznamy, o kterých je známo, že jsou nepotřebné, nebo přebytečné.
+> Systémové záznamy jsou velmi důležité pro ladění chyb. Nefiltrujte záznamy, pokud to skutečně nepotřebujete.
+> Zadejte řetězce záznamů které chcete odfiltrovat. Každý záznam je na zvláštní řádce v úvozovkách na začátku i na konci.
 :end
 
 :enhanced_log_filter_buttons_plug:
-> Click the **Apply** button to Apply the Syslog filter. Click **Reset** to
-> undo any changes you make before you have saved the Syslog filter. Click **Done** to exit this page.
+> Klepněte na **Použít** pro použití filtru systémových záznamů. Klepněte na **Reset** pro
+> vymazání všech změn provedených před uložením filtru systémových záznamů. Klepněte na **Hotovo** pro opuštění této stránky.
 :end
