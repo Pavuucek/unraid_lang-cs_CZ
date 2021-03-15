@@ -1,35 +1,36 @@
-File Activity=
-File Activity Logging=
-Start File Activity=
-Stop File Activity Logging=
-Clear the File Activity log=
-Refresh log=
-Enable File Activity Logging=
-Enable for Unassigned Devices=
-Enable for Cache and Pool=
+File Activity=Aktivita souborů
+File Activity Logging=Záznamy aktivity souborů
+Start File Activity=Spustit aktivitu souborů
+Stop File Activity Logging=Zastavit aktivitu souborů
+Clear the File Activity log=Vyčistit záznam aktivity souborů
+Refresh log=Obnovit záznam
+Enable File Activity Logging=Povolit záznamy aktivity souborů
+Enable for Unassigned Devices=Povolit pro nepřiřazená zařízení
+Enable for Cache and Pool=Povolit pro cache a fond
 ;
 ; Help
 ;
 :file_activity_loggging_plug:
-> File Activity Logging:
+> Záznamy aktivity souborů:
 >
-> File read/write/modify activity is monitored and logged on the array using inotify and is displayed by disk, UD disks, and cache.
-> You need to start the File Activity in order to log the disk activity.
-> File Activity is intended to be running for short periods so you can check disk activity.
-> A server with a lot of file activity can fill the log space.
-> The 'appdata' directory is excluded.
+> Je monitorována a zaznamenávána aktivita čtení/zápis/změny na poli disků pomocí inotify a je zobrazována podle disku, UD disků a cache.
+> Pro zaznamenávání musíte spustit Aktivitu souborů.
+> Aktivita souborů je zamýšlena pro spouštění na krátkou dobu pro kontrolu aktivity disku.
+> Server se spoustou souborové aktivity může snadno zaplnit prostor pro záznamy.
+> Složka 'appdata' je vynechána.
 >
-> Note: File Activity logging is stopped if the array is stopped.
+> Poznámka: Záznamy aktivity souborů jsou zastaveny, pokud je zastaveno pole.
 :end
 
 :file_activity_enable_logging_plug:
 > Set to 'Yes' to enable File Activity logging when the server is started.
+> Pro povolení záznamů aktivity souborů po startu serveru nastavte na 'Ano'.
 :end
 
 :file_activity_enable_ud_plug:
-> Set to 'Yes' to enable File Activity logging for Unassigned Devices if the Unassigned Devices plugin is installed.
+> Pro povolení záznamů aktivity souborů pro nepřiřazená zařízení nastavte na 'Ano', pokud je nainstalován doplněk Nepřiřazená zařízení.
 :end
 
 :file_activity_enable_cache_plug:
-	> Set to 'Yes' to enable File Activity logging for the Cache and Pool Disks.  Pool disks only apply in Unraid 6.9.
+	> Pro povolení záznamů aktivity souborů pro cache fond disků nastavte na 'Ano'. Fond disků je dispozici jen v Unraid 6.9.
 :end
