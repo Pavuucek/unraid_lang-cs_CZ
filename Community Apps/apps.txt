@@ -17,6 +17,8 @@ Sort By Name Descending=Seřadit sestupně podle názvu
 Sort By Downloads=Seřadit podle počtu stažení
 Sort By Trend=Seřadit podle trendu
 Sort By Date Added=Seřadit podle data přidání
+Sort By Number Of Apps=Seřadit podle počtu aplikací
+Sort By Average Trend=Seřadit podle průměrného trendu
 ; Initial disclaimer translations
 Disclaimer=Vyloučení odpovědnosti
 All applications listed here are 3rd party additions to Unraid Neither the authors of Community Applications nor Limetech make any warranty as to the suitability of any application listed here=Všechny zde uvedené aplikace jsou doplňky třetích stran. Autoři Komunitních Aplikací ani Limetech na ně neposkytují žádnou záruku použitelnosti.
@@ -40,6 +42,39 @@ Please enter search term=Zadejte prosím hledaný výraz
 Click Here To Get More Results From DockerHub=Pro více výsledků z DockerHubu klepněte sem
 No Matching Applications Found On Docker Hub=Na DockerHubu nebyly nalezeny žádné odpovídající aplikace
 No Matching Applications Found=Nebyly nalezeny žádné odpovídající aplikace
+
+; Repository Related
+Removed favourite repository=Odstnit oblíbené úložiště
+%s set as favourite repository=%s nastaveno jako oblíbené úložiště
+Click to remove favourite repository=Klepnutím odstraníte oblíbené úložiště
+Click to set %s as favourite repository=Klepnutím přidáte %s nastavíte jako oblíbené
+Search for apps in repository=Hledat aplikace v úložišti
+No description present=Popisek není k dispozici
+Go to the forum page=Přejít na stránku na fóru
+Go to the webpage=Přejít na stránku
+Go to reddit=Přejít na reddit
+Go to facebook=Přejít na facebook
+Go to discord=Přejít na discord
+Go to forum profile=Přejít na profil na fóru
+Show Profile=Zobrazit profil
+Read more=Číst více
+Favourite Repository=Oblíbené úložiště
+Set as favourite repository=Nastavit jako oblíbené úložiště
+Total Applications=Celkem aplikací
+Total Known Downloads=Celkem stažení
+Total Docker Applications=Celkem aplikací Dockeru
+Total Plugin Applications=Celkem zásuvných modulů
+Total Languages=Celkem jazyků
+Average Downloads Per App=Průměrná stažení na aplikaci
+Web Page=Webová stránka
+Forum=Fórum
+Forum Profile=Profil na fóru
+Facebook=Facebook
+Reddit=Reddit
+Twitter=Twitter
+Discord=Discord
+Search Apps=Prohledat aplikace
+Profile=Profil
 
 ; Install Plugin title of openbox
 Install Plugin=Instalace doplňku
@@ -87,13 +122,18 @@ Unknown error happened Please post a screenshot in the support thread of the Sta
 Something really wrong happened Reloading the Apps tab will probably fix the problem=Tady se něco opravdu hodně nepovedlo. Obnovením záložky Aplikace nejspíše opravíte tento problém
 This plugin has a duplicated name from another plugin %s This will impact your ability to install both plugins simultaneously=Tento doplněk má duplicitní název s jiným doplňkem zvaným %s. Nebudete tedy moct mít oba doplňky nainstalované najednou
 You have been logged out=Byli jste odhlášeni
+Fatal Flash Drive Error=Fatální chyba flash disku
+This usually means your flash drive is corrupted or has dropped offline The rest of the Unraid GUI will also be affected Post a new thread in the Unraid forums if this error continues=Toto obvykle znamená, že se váš flash disk deaktivoval, nebo je poškozený. Bude to mít vliv i na zbytek grafického rozraní Unraid. Pokud bude tato chyba přetrvávat, napište nový příspěvek do fóra Unraid.
+
 
 ; CA Sections Keep the length reasonable
 MENU=NABÍDKA
 Installed Apps=Instalované aplikace
 Previous Apps=Předchozí aplikace
 Pinned Apps=Připnuté aplikace
+Favourite Repo=Oblíbené úložiště
 CATEGORIES=KATEGORIE
+FILTERS=FILTRY
 New Apps=Nové aplikace
 Updated Apps=Aktualizované aplikace
 Random Apps=Náhodné aplikace
@@ -106,6 +146,7 @@ Credits=Autoři
 Support=Podpora
 VERSION=VERZE
 Change Log=Seznam změn
+Debugging=Ladění
 
 ; Credits
 Development=Vývoj
@@ -167,6 +208,7 @@ Community Applications Changelog=Seznam změn Komunitních Aplikací
 Backup=Záloha
 Cloud=Cloud
 Downloaders=Stahovače
+Drivers=Ovladače
 Game Servers=Herní servery
 Home Automation=Automatizace domácnosti
 Media Applications=Mediální aplikace
@@ -284,6 +326,7 @@ Docker Application Installation finished=Instalace aplikací Dockeru dokončena
 
 ; Application Cards
 Private dockerHub Conversion=Soukromé (převedené z DockerHubu)
+Private Application=Soukromá aplikace
 Go to the project page=Přejít na stránku projektu
 Go to the support thread=Přejít na vlákno podpory
 Uninstall Application=Odinstalovat aplikaci
@@ -339,3 +382,4 @@ On the previous apps section you can select multiple applications to install sim
 This is the recommended version to install by the application author themselves=Toto je verze, kterou auitoři doporučují pro instalaci
 For support for this plugin visit=Pro podporu tohoto doplňku navštivte
 To view the policies Community Applications has=Pro zobrazení zásad Komunitních aplikací
+This sets a favourite repository which will appear first in any search result=Tímto nastavíte oblíbené úložiště, které se potom bude zobrazovat jako první ve výsledcích hledání.

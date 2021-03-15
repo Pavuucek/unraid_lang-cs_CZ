@@ -13,6 +13,7 @@ Installed Plugins=Nainstalované doplňky
 Installing Update=Instaluji aktualizaci
 need check=potřebuji zkontrolovat
 Next=Další
+No plugins installed=Nejsou nainstalované žádné doplňky
 No release notes available=Nejsou k dispozici poznámky o vydání
 Plugin File=Soubor doplňku
 Plugin Update Check=Kontrola aktualizace doplňku

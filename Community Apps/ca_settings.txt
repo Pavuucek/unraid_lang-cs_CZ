@@ -11,4 +11,6 @@ This setting allows CA to periodically scan your system and alert you to the pre
 1 Known malware and security vulnerabilities within applications=1) Známého malware a bezpečnostních chyb v aplikací
 2 Critical security vulnerabilities within Unraid OS=2) Kritických bezpečnostních chyb v Unraid OS
 3 Any installed applications which may seriously hinder the operation of your server=3) Jakýchkoliv instalovaných aplikací, který můžou mít negativní vliv na funkci serveru
+Save CA debugging information=Uložit ladící informace KA
+Only enable this when advised to from the author of Community Applications=Toto povolte pouze pokud vás k tomu vyzve autor Komunitních Aplikací
 Support Thread=Vlákno podpory

@@ -87,6 +87,7 @@ sn=s.č.
 Start the array=Spustit pole
 Started only=Spuštěno pouze
 Stop the array=Zastavit pole
+Temp=Teplota
 This will put the system to sleep=Tímto uspíte systém
 This will reboot the system=Tímto restartujete systém
 This will shutdown the system=Tímto vypnete systém
