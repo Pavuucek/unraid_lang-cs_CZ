@@ -1,29 +1,29 @@
-Default Script=
-Edit Script=
-Enter Script File Name=
-Enter and Edit the Script that runs when a udev or operator event occurs=
-Load the default script=
-Remove Script File=
-Run in background=
-Save your changes and save to Script File=
-Save=
-Script content=
-Turn on to run Script File in the background=
-Undo your changes since last Save=
+Default Script=Výchozí skript
+Edit Script=Upravit skript
+Enter Script File Name=Zadejte název souboru skriptu
+Enter and Edit the Script that runs when a udev or operator event occurs=Zadejte a upravte skript, který poběží pokud nastane událost udev nebo operator.
+Load the default script=Načíst výchozí skript
+Remove Script File=Odstranit soubor skriptu
+Run in background=Spustit na pozadí
+Save your changes and save to Script File=Uložit změny a uložit do souboru skriptu
+Save=Uložit
+Script content=Obsah skriptu
+Turn on to run Script File in the background=Zapněte pro spuštění souboru skriptu na pozadí
+Undo your changes since last Save=Odstranit změny od posledního uložení
 ;
 ; Help
 ;
 :ud_edit_script_choose_name_plug:
-> Choose your script name from the file selection dropdown, or enter your desired script name.
+> Zvolte si název skriptu z nabídky výběru souborů, nebo ho zadejte.
 :end
 
 :ud_edit_script_run_background_plug:
-> Turn on the 'Run in Background' to have the script run as a background task.  This can keep the Unassigned Devices UI from hanging when the script is run from the UI.
+> Zapnutím 'Spustit na pozadí' spustíte skript jako úlohu na pozadí. Tímto budete moci nadále používat rozhraní Nepřiřazených zařízení.
 :end
 
 :ud_edit_script_buttons_plug:
-> Click the **Save** button to commit the current edits.  Click **Reset** to undo any changes you make (before Saving). Click **Done** to exit this page.
+> Pro použití úprav klepněte na tlačítko **Uložit**. Pro obnovení změn do stavu posledního uložení klepněte na tlačítko **Vyresetovat**. Pro opuštění této stránky klepněte na tlačítko **Hotovo** .
 >
-> Click the **Default Script** button to initialize the edit box with a default script.
-> You still need to click **Save** in order to commit the change.
+> Pro inicializování editačního pole klepněte na tlačítko **Výchozí skript**.
+> Pro potvrzení změn budete přesto muset klepnout na tlačítko **Uložit**.
 :end
