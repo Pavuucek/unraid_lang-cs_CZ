@@ -1,46 +1,46 @@
-Default Script=
-Edit Script=
-Enter Script File Name=
-Enter and Edit the Script that runs when a udev or operator event occurs=
-Load the default script=
-Remove Script File=
-Run in background=
-Save your changes and save to Script File=
-Save=
-Script content=
-Turn on to Mount Device Read only=
-Turn on to Mount Device when Array is Started=
-Turn on to Mount ISO File when Array is Started=
-Turn on to Mount Remote SMBNFS Share when Array is Started=
-Turn on to run Script File in the background=
-Turn on to Share Device with SMB andor NFS=
-Turn on to Share Remote Mount with SMB andor NFS=
-Turn on to mark this Device as passed through to a VM or Docker=
-Unassigned Devices Settings=
-Undo your changes since last Save=
+Default Script=Výchozí skript
+Edit Script=Upravit skript
+Enter Script File Name=Zadejte název souboru skriptu
+Enter and Edit the Script that runs when a udev or operator event occurs=Zadejte a upravte skript který bude spuštěn při událostech udev nebo operator
+Load the default script=Načíst výchozí skript
+Remove Script File=Odstranit soubor skriptu
+Run in background=Spustit na pozadí
+Save your changes and save to Script File=Uložit změny do souboru skriptu
+Save=Uložit
+Script content=Obsah skriptu
+Turn on to Mount Device Read only=Zapněte pro připojení zařízení v režimu pouze pro čtení
+Turn on to Mount Device when Array is Started=Zapněte pro připojení zařízení při spuštění pole
+Turn on to Mount ISO File when Array is Started=Zapněte pro připojení ISO obrazu při spuštění pole
+Turn on to Mount Remote SMBNFS Share when Array is Started=Zapněte pro připojení vzdáleného sdílení SMB/NFS při spuštění pole
+Turn on to run Script File in the background=Zapněte pro spuštění souboru skriptu na pozadí
+Turn on to Share Device with SMB andor NFS=Zapněte pro sdílení zařízení přes SMB nebo NFS
+Turn on to Share Remote Mount with SMB andor NFS=Zapněte pro sdílení vzáleného sdílení přes SMB nebo NFS
+Turn on to mark this Device as passed through to a VM or Docker=Zapněte pro označení tohoto zařízení pro průchod do virtuálního stroje nebo Dockeru
+Unassigned Devices Settings=Nastavení nepřiřazených zařízení
+Undo your changes since last Save=Vzít zpět změny od posledního uložení
 ;
 ; Help
 ;
 :ud_edit_script_device_settings_plug:
-> Select the options for this device/mount point.  These changes are made immediately.  You don't need to click 'Save' to save them.
+> Zvolte možnosti pro toto zařízení / bod připojení. Tyto změny jsou provedeny okamžitě. Nemusíte klepat na tlačítko 'Uložit'.
 :end
 
 :ud_edit_script_choose_name_plug:
-> Choose your script name from the file selection dropdown, or enter your desired script name.
+> Zvolte název skriptu z nabídky pro výběr souborů, nebo zadejte žádaný název.
 :end
 
 :ud_edit_user_script_choose_name_plug:
-> If you have the User Scripts plugin installed, you can have Unassigned Devices show the running status of the User Script that will be using this device.
+> Pokud máte nainstalovaný doplněk Uživatelské skripty, tak můžete zobrazit stav běhu uživatelského skriptu co používá toto zařízení.
 :end
 <?endif;?>
 
 :ud_edit_script_run_background_plug:
-> Turn on the 'Run in Background' to have the script run as a background task.  This can keep the Unassigned Devices UI from hanging when the script is run from the UI.
+> Zapnutím 'Spustit na pozadí' spustíte skript jako úlohu na pozadí. Tímto budete moci nadále používat rozhraní Nepřiřazených zařízení.
 :end
 
 :ud_edit_script_buttons_plug:
-> Click the **Save** button to commit the current edits.  Click **Reset** to undo any changes you make (before Saving). Click **Done** to exit this page.
+> Pro použití úprav klepněte na tlačítko **Uložit**. Pro obnovení změn do stavu posledního uložení klepněte na tlačítko **Vyresetovat**. Pro opuštění této stránky klepněte na tlačítko **Hotovo** .
 >
-> Click the **Default Script** button to initialize the edit box with a default script.
-> You still need to click **Save** in order to commit the change.
+> Pro inicializování editačního pole klepněte na tlačítko **Výchozí skript**.
+> Pro potvrzení změn budete přesto muset klepnout na tlačítko **Uložit**.
 :end
