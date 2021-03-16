@@ -1,158 +1,158 @@
-Add ISO File Share=
-Add Remote SMBNFS Share=
-An XFS or BTRFS disk partitioned in UD is compatible with the array disk partitioning and can be added to the array=
-Any data on this disk will be lost=
-Are you sure=
-Auto mount=
-Back=
-Browse Disk Share=
-Browse ISO File Share=
-Browse Remote SMBNFS Share=
-Choose File System Format=
-Choose ISO File=
-Choose Server=
-Choose Share=
-Click on Icon to Choose Protocol=
-Change Disk Mount Point=
-Change ISO File Mount Point=
-Change SMBNFS Mount Point=
-Changing the Mount Point will also change the disk label=
-Click to select ISO file=
-Click to view partitionsmount points=
-Complete=
-Disk Log Information=
-Domain=
-Edit Device Script=
-Edit ISO File Script=
-Edit Remote SMBNFS Script=
-Enter the Domain for the share if on a Domain=
-Enter the Password if the share is password protected=
-Enter the Username if the share is password protected=
-Enter the password to use for this disk=
-Execute Script as udev simulating a device being installed=
-Fail=
-file share for=
-File System Check=
-Format=
-Formatting=
-Free=
-from disk=
-Historical Devices=
-ISO File Shares=
-Identification=
-If using a disk password be sure to enter the password for this disk in UD Settings so it can be mounted=
-Leave blank to use the array passwordpassphrase=
-Load Shares=
-Loading=
-Log=
-missing=
-Mount=
-Mounting=
-NFS Shares=
-Next=
-No Remote SMBNFS or ISO File Shares configured=
-No Unassigned Disks available=
-Note=
-Open=
-Partition and Format Disk=
-Pass Thru=
-Password=
-Read only=
-Remember your password It cannot be recovered=
-Remove Device configuration=
-Remove ISO File Share=
-Remove Partition=
-Remove Remote SMBNFS Share=
-Remove partition=
-Rescan Disks=
-Run with CORRECT flag=
-Running=
-SMART Attributes on=
-SMB Shares=
-Script=
-Search For Servers=
-Search for Servers, or enter the Server nameIP address manually=
-Search for Shares or enter the Share name manually=
-Searching=
-Serial Number Mountpoint=
-share for=
-Simple=
-Source=
-Success=
-Switch Display Mode=
-Switch On to Show All Partitions=
-This will remove the ISO file share for=
-This will remove the remote=
-This will remove the saved configuration of=
-This will remove the=
-to confirm=
-to format=
-Turn on to Mount Device Read only=
-Turn on to Mount Device when Array is Started=
-Turn on to Mount ISO File when Array is Started=
-Turn on to Mount Remote SMBNFS Share when Array is Started=
-Turn on to Share Device with SMB andor NFS=
-Turn on to Share Remote Mount with SMB andor NFS=
-Turn on to mark this Device as passed through to a VM or Docker=
-Unassigned Devices Settings=
-Unmount=
-Unmounting=
-Used=
-Username=
-View Device Script Log=
-View ISO File Script Log=
-View Remote SMBNFS Script Log=
-You will need to enter credentials for Windows 10 shares just to list them=
+Add ISO File Share=Přidat sdílení ISO obrazu
+Add Remote SMBNFS Share=Přidat vzdálené sdílení SMB / NFS
+An XFS or BTRFS disk partitioned in UD is compatible with the array disk partitioning and can be added to the array=Disk formátovaný XFS nebo BTRFS je kompatibilní s rozdělením disku pole a může být přidán do pole
+Any data on this disk will be lost=Všechna data na tomto disku budou ztracena
+Are you sure=Jste si jistí
+Auto mount=Připojit automaticky
+Back=Zpět
+Browse Disk Share=Procházet sdílení disku
+Browse ISO File Share=Procházet sdílení ISO obrazů
+Browse Remote SMBNFS Share=Procházet sdílení SMB / NFS
+Choose File System Format=Zvolte formát systému souborů
+Choose ISO File=Zvolte soubor ISO obrazu
+Choose Server=Zvolte server
+Choose Share=Zvolte sdílení
+Click on Icon to Choose Protocol=Pro výběr protokolu klepněte na ikonu
+Change Disk Mount Point=Změnit přípojný bod disku
+Change ISO File Mount Point=Změnit přípojný bod souboru ISO obrazu
+Change SMBNFS Mount Point=Změnit přípojný bod SMB / NFS
+Changing the Mount Point will also change the disk label=Změnou přípojného bodu také změníte název disku
+Click to select ISO file=Klepněte pro výběr souboru ISO obrazu
+Click to view partitionsmount points=Klepněte pro zobrazení oddílů / přípojných bodů
+Complete=Celkové
+Disk Log Information=Informace záznamu disků
+Domain=Doména
+Edit Device Script=Upravit skript zařízení
+Edit ISO File Script=Upravit skript ISO obrazu
+Edit Remote SMBNFS Script=Upravit skript vzdáleného sdílení SMB / NFS
+Enter the Domain for the share if on a Domain=Pokud je sdílení v doméně, zadejte doménu
+Enter the Password if the share is password protected=Pokud je sdílení chráněné heslem, zadejte heslo
+Enter the Username if the share is password protected=Pokud je sdílení chráněné heslem, zadejte uživatelské jméno
+Enter the password to use for this disk=Zadejte heslo pro použití tohoto disku
+Execute Script as udev simulating a device being installed=Provést skript jako udev, jako simulaci nainstalování disku
+Fail=Selhání
+file share for=sdílení souborů pro
+File System Check=Kontrola systému souborů
+Format=Formátovat
+Formatting=Formátuji
+Free=Volné
+from disk=z disku
+Historical Devices=Historická zařízení
+ISO File Shares=Sdílení souborů ISO obrazů
+Identification=Identifikace
+If using a disk password be sure to enter the password for this disk in UD Settings so it can be mounted=Pokud má disk přiřazené heslo, tak ho zadejte v nastavení nepřiřazených zařízení, aby disk mohl být připojen.
+Leave blank to use the array passwordpassphrase=Pro použití hesla pole toto ponechte prázdné
+Load Shares=Načíst sdílení
+Loading=Načítám
+Log=Záznam
+missing=chybí
+Mount=Připojit
+Mounting=Připojuji
+NFS Shares=NFS sdílení
+Next=Další
+No Remote SMBNFS or ISO File Shares configured=Nejsou nastavena žádná sdílení SMB / NFS nebo souborů ISO obrazů
+No Unassigned Disks available=Nejsou k dispozici žádné nepřiřazené disky.
+Note=Poznámka
+Open=Otevřít
+Partition and Format Disk=Vytvořit oddíly a naformátovat disk
+Pass Thru=Průchod
+Password=Heslo
+Read only=Pouze pro čtení
+Remember your password It cannot be recovered=Dobře si heslo zapamatujte. Nemůže být obnoveno.
+Remove Device configuration=Odstranit nastavení zařízení
+Remove ISO File Share=Odstranit sdílení souboru ISO obrazu
+Remove Partition=Odstranit oddíl
+Remove Remote SMBNFS Share=Odstranit vzdálené sdílení SMB / NFS
+Remove partition=Odstranit oddíl
+Rescan Disks=Znovu prohledat disky
+Run with CORRECT flag=Spustit s příznakem CORRECT
+Running=Běží
+SMART Attributes on=Zapnuté atributy SMART
+SMB Shares=SMB sdílení
+Script=Skript
+Search For Servers=Vyhledat servery
+Search for Servers, or enter the Server nameIP address manually=Vyhledejte servery, nebo zadejte ručně název serveru, nebo jeho adresu.
+Search for Shares or enter the Share name manually=Vyhledejte sdílení, nebo zadejte ručně jeho název
+Searching=Vyhledávám
+Serial Number Mountpoint=Sériové číslo / bod připojení
+share for=sdílení pro
+Simple=Jednoduché
+Source=Zdroj
+Success=Úspěch
+Switch Display Mode=Přepnout režim zobrazení
+Switch On to Show All Partitions=Zapněte pro zobrazení všech oddílů
+This will remove the ISO file share for=Tímto odstraníte sdílení souboru ISO obrazu
+This will remove the remote=Tímto odstraníte vzdálené sdílení
+This will remove the saved configuration of=Tímto odstraníte uložené nastavení
+This will remove the=Tímto odstraníte
+to confirm=pro potvrzení
+to format=pro formátování
+Turn on to Mount Device Read only=Zapněte pro připojení zařízení v režimu pouze pro čtení
+Turn on to Mount Device when Array is Started=Zapněte pro připojení zařízení při spuštění pole
+Turn on to Mount ISO File when Array is Started=Zapněte pro připojení ISO obrazu při spuštění pole
+Turn on to Mount Remote SMBNFS Share when Array is Started=Zapněte pro připojení vzdáleného sdílení SMB/NFS při spuštění pole
+Turn on to Share Device with SMB andor NFS=Zapněte pro sdílení zařízení přes SMB nebo NFS
+Turn on to Share Remote Mount with SMB andor NFS=Zapněte pro sdílení vzáleného sdílení přes SMB nebo NFS
+Turn on to mark this Device as passed through to a VM or Docker=Zapněte pro označení tohoto zařízení pro průchod do virtuálního stroje nebo Dockeru
+Unassigned Devices Settings=Nastavení nepřiřazených zařízení
+Unmount=Odpojit
+Unmounting=Odpojuji
+Used=Použito
+Username=Uživatelské jméno
+View Device Script Log=Zobrazit záznam skript zařízení
+View ISO File Script Log=Zobrazit záznam skriptu souboru ISO obrazu
+View Remote SMBNFS Script Log=Zobrazit záznam skriptu vzdáleného sdílení SMB / NFS
+You will need to enter credentials for Windows 10 shares just to list them=Pro zobrazení sdílení z Windows 10 budete muset zadat uživatelské údaje
 
 ; Help
 ;
 :unassgned_devices_switches_plug:
-> Turn off the **Complete** switch to change the web page to just show hardware devices. Turn on the **Simple** switch to switch back to the full web display.
+> Pro zobrazení pouze hardwarových zařízení přepněte přepínač **Celkové**. Pro zapnutí plného zobrazení přepněte zpět přepínač **Jednoduché**.
 >
-> Turn on the **None** switch to show all device partitions. Turn off **All** switch to switch back to not show partitions.
+> Pro zobrazení všech oddílů na zařízení zapněte přepínač **Žádné**. Pro vypnutí zobrazení oddílů vypněte přepínač **Všechny**.
 >
-> Click on the <i style='color:black;font-weight:bold;' class="fa fa-refresh"></i> icon to rescan disks.
+> Pro znovunačtení disků klepněte na ikonu <i style='color:black;font-weight:bold;' class="fa fa-refresh"></i>.
 >
-> Click on the <i style='color:black;font-weight:bold;' class="fa fa-gear"></i> icon to go to the UD Settings.
+> Pro přechod do nastavení nepřiřazených zařízení klepněte na ikonu <i style='color:black;font-weight:bold;' class="fa fa-gear"></i>.
 :end
 
 :unassigned_devices_general_help_plug:
-> **Unassigned Devices is called UD for short.**
+> **Nepřiřazená zařízení, zkráceně NZ.**
 >
-> Hover your mouse over an any active area on the UD page and a tool tip will show you what clicking that area does.
-> You can mount USB devices, sata drives, Remote SMB/NFS shares, and ISO Files with UD.  Any devices with the auto mount switch on will be mounted when the array is started.  All drives and SMB/NFS Mounts are unmounted when the array is stopped on the 'stopping_svcs' event.
-> If you want to share your drive, you can turn on the Share switch.  The default for Remote SMB shares is Public read/write access.  Enable SMB Security by user in the Unassigned Devices Settings.  NFS shares are exported and access is read/write.  The export of NFS devices is enabled in the Unassigned Devices settings. You can also enable a common script that will be executed on every disk mount.  In order to share any UD device, sharing needs to be enabled in the UD Settings and the switch turned on to share the particular device.  SMB/NFS remove shares and ISO mounts are always shared.
+> Přejeďte myší nad jakoukoliv aktivní oblastí stránky NZ a zobrazí se vám popis toho co udělá klepnutí na tuto oblast.
+> Pomocí NZ můžete připojit USB zařízení, SATA disky, vzdálená sdílení SMB / NFS a soubory ISO obrazů. Jakékoliv zařízení které má zapnutý přepínač automatického připojení bude připojeno při spuštění pole. Všechny disky a sdílení SMB / NFS budou při vypnutí pole odpojené, při vyvolání události 'stopping_svcs'.
+> Pokud chcete sdílet váš disk, tak můžete zapnout přepínač 'Sdílet'. Výchozí nastavení pro vzdálená SMB sdílení je Veřejný přístup pro čtení / zápis. V nastavení NZ povolte zabezpečení podle uživatelů. Sdílení NFS jsou exportována a přístup je pro čtení / zápis. Exportování NFS zařízení je povolené v nastavení NZ. Také můžete povolit společný skript, který se provede při každém připojení disku. Pro sdílení nepřiřazeného zařízení musíte v nastavení povolit sdílení a přepnout přepínač pro příslušné zařízení. Sdílení SMB / NFS a připojené ISO obrazy jsou vždy sdílené.
 >
-> Additional options are available when you click on the <i style='color:black;font-weight:bold;' class="fa fa-plus-square"></i> icon by device identification.  When the disk is unmounted, the mount point of the device can be changed.  The disk label will also be changed.  A disk can be formatted and an fsck run to check the disk.
+> Další nastavení jsou k dispozici po klepnutí na ikonu <i style='color:black;font-weight:bold;' class="fa fa-plus-square"></i> u identifikátoru zařízení. Přípojný bod lze změnit, pokud je disk odpojený. Tím se změní i název disku. Disk můžete naformátovat a spustit fsck pro jeho kontrolu.
 >
-> The 'Settings->Unassigned Devices' security settings for SMB and NFS must be set correctly for SMB and NFS sharing to work properly.
+> Nastavení zabezpečení v 'Nastavení -> Nepřiřazená zařízení' pro SMB a NFS musí být nastavena, aby správně sdílení fungovaly správně.
 >
-> If the mount button is grayed out for a SMB/NFS remote share, the remote server is not responding to a ping.  The remote share server must respond to a ping or UD will consider it off-line.
+> Pokud vzdálený server neodpovídá na pingy, tak je tlačítko pro připojení vzdáleného sdílení SMB / NFS zašedlé. Vzdálený serverr musí odpovídat na pingy, jinak ho NZ budou považovat za vypnutý.
 >
-> UD has a destructive mode that allows deleting disk partitions and formatting disks.	If Destructive Mode is not turned on in the UD Settings, you WILL NOT be able to format a disk or remove partitions.  Go the the 'Settings->Unassigned Devices' to set the destructive mode.
+> NZ mají ničivý režim, který vám umožní smazat oddíly a naformátovat disky. Pokud je tento ničivý režim vypnutý v nastavení NZ, NEBUDETE moct naformátovat disky nebo odstranit oddíly. Pro zapnutí ničivého režinu přejděte do 'Nastavení -> Nepřiřazená zařízení'.
 >
-> **To format a disk:**
+> **Pro naformátování disku:**
 >
-> + Destructive mode must be enabled.
-> + Disk must have all partitions removed.  Unmount disk, click on the <i style='color:black;font-weight:bold;' class='fa fa-plus-square'></i> icon,, and click on all <i style='color:red;font-weight:bold;' class='fa fa-remove hdd'></i> icons to delete partitions.
-> + If the disk has been precelared and shows a grayed 'Format' button, click on the <i style='color:black;font-weight:bold;' class='fa fa-plus-square'></i> icon, then click on the <i style='color:red;font-weight:bold;' class='fa fa-remove hdd'></i> icon to delete the preclear status file.
+> + Musí být povolen ničivý režim.
+> + Na disku nesmí být žádné oddíly. Pro smazání oddílů odpojte disk, klepněte na ikonu <i style='color:black;font-weight:bold;' class='fa fa-plus-square'></i> a klepněte na všechny ikony <i style='color:red;font-weight:bold;' class='fa fa-remove hdd'></i>.
+> + Pokud byl disk předčištěn a tlačítko 'Formátovat' je zašedlé klepněte na ikonu <i style='color:black;font-weight:bold;' class='fa fa-plus-square'></i> icon, then click on the <i style='color:red;font-weight:bold;' class='fa fa-remove hdd'></i> pro smazání stavového souboru předčištění.
 >
-> **Note: A disk partitioned in UD is compatible with the array disk partitioning and can be added to the array. Supported file formats are XFS, XFS encrypted, BTRFS and BTRFS encrypted.**
+> **Poznámka: Disk s oddíly vytvořenými NZ je kompatibilní s oddíly pole a může být do něj přidán. Podporované typy souborových systémů jsou XFS, šifrované XFS, BTRFS a šifrované BTRFS.**
 >
-> **Encrypted Disks:**
+> **Šifrované disky:**
 >
-> + Any disk formatted in UD that is encrypted will use the array password/passphrase and can be incorporated into the array.  Or you can set a unique password when it is formatted.  If you set a password on the disk when it is formatted, you will need to enter a disk password in Unassignd Devices->Settings for that disk.
-> + Any disk that was not encrypted with the Array password/passphrase can be mounted by setting a per disk passord set in Unassigned Devices->Settings.
+> + Pro jakýkoliv disk šifrovaný naformátovaný pomocí NZ bude použito heslo pole a disk může být zahrnut do pole. Také při formátování můžete použít unikátní heslo. Pokud nastavíte heslo při formátování, tak budete muset příslušné heslo nastavit v Nepřiřazená zařízení -> Nastavení.
+> + Jakýkoliv disk který nebyl šifrován pomocí hesla pole může být připojen pomocí nastavení hesla disku v Nepřiřazená zařízení -> Nastavení.
 >
-> **Unassigned devices script:**
+> **Skripty nepřiřazených zařízení:**
 >
-> UD includes a script that is used for mounting and unmounting devices and SMB/NFS mounts. These scripts can be used from the command line or in your scripts as necessary.
+> NZ obsahujey skript který je použit při připojení a odpojení zařízení a sdílení SMB / NFS. Tyto skripty mohou být použity z příkazové řádky, nebo ve vašich vlastních skriptech.
 >
-> + '/usr/local/sbin/rc.unassigned mount auto' - all devices and SMB/NFS mounts set to auto mount will be mounted.
-> + '/usr/local/sbin/rc.unassigned umount auto' - all devices and SMB/NFS mounts set to auto mount will be unmounted.
-> + '/usr/local/sbin/rc.unassigned umount all' - all devices and SMB/NFS mounts are unmounted in preparation for shutting down the array.
-> + '/usr/local/sbin/rc.unassigned mount /dev/sdX' - mount device sdX where 'X' is the device designator.
-> + '/usr/local/sbin/rc.unassigned umount /dev/sdX' - unmount device sdX where 'X' is the device designator. You can use this command in a UD script to unmount the device when the script has completed.
-> + '/usr/local/sbin/rc.unassigned refresh /dev/sdX' - used at the end of the 'ADD' case of a script so the 'Running...' indicator will be updated.
+> + '/usr/local/sbin/rc.unassigned mount auto' - Připojí všechna zařízení a připojení SMB / NFS nastavené na automatické připojení.
+> + '/usr/local/sbin/rc.unassigned umount auto' - Odpojí všechna zařízení a připojení SMB / NFS nastavené na automatické připojení.
+> + '/usr/local/sbin/rc.unassigned umount all' - Odpojí všechna zařízení a připojení SMB / NFS jako přípravu pro vypnutí pole.
+> + '/usr/local/sbin/rc.unassigned mount /dev/sdX' - Připojí zařízení sdX, kde 'X' je identifikátor zařízení.
+> + '/usr/local/sbin/rc.unassigned umount /dev/sdX' - Odpojí zařízení sdX, kde 'X' je identifikátor zařízení. Tento příkaz můžete použít ve skriptu NZ pro odpojení zařízení po dokončení běhu skriptu.
+> + '/usr/local/sbin/rc.unassigned refresh /dev/sdX' - Bude použit nakonec skriptu použitého při přidání, pro obnovení stavu zařízení.
 :end
 
